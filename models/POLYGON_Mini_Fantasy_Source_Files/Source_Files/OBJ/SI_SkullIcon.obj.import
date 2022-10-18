@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/SI_SkullIcon.obj-af28d9af9ff721e8ee5d64e1d7f74b44.mesh"
+
+[deps]
+
+files=[ "res://.import/SI_SkullIcon.obj-af28d9af9ff721e8ee5d64e1d7f74b44.mesh" ]
+
+source_file="res://models/POLYGON_Mini_Fantasy_Source_Files/Source_Files/OBJ/SI_SkullIcon.obj"
+dest_files=[ "res://.import/SI_SkullIcon.obj-af28d9af9ff721e8ee5d64e1d7f74b44.mesh", "res://.import/SI_SkullIcon.obj-af28d9af9ff721e8ee5d64e1d7f74b44.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

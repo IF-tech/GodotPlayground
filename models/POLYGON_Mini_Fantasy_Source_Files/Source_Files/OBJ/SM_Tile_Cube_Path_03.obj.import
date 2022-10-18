@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/SM_Tile_Cube_Path_03.obj-15d8eceb0dfc2773a2c49e23f38a9794.mesh"
+
+[deps]
+
+files=[ "res://.import/SM_Tile_Cube_Path_03.obj-15d8eceb0dfc2773a2c49e23f38a9794.mesh" ]
+
+source_file="res://models/POLYGON_Mini_Fantasy_Source_Files/Source_Files/OBJ/SM_Tile_Cube_Path_03.obj"
+dest_files=[ "res://.import/SM_Tile_Cube_Path_03.obj-15d8eceb0dfc2773a2c49e23f38a9794.mesh", "res://.import/SM_Tile_Cube_Path_03.obj-15d8eceb0dfc2773a2c49e23f38a9794.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

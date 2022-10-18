@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/SM_Prop_Viking_Boat_01.obj-f9d4fb17f2d19f25d6fc17d38bb167d3.mesh"
+
+[deps]
+
+files=[ "res://.import/SM_Prop_Viking_Boat_01.obj-f9d4fb17f2d19f25d6fc17d38bb167d3.mesh" ]
+
+source_file="res://models/POLYGON_Mini_Fantasy_Source_Files/Source_Files/OBJ/SM_Prop_Viking_Boat_01.obj"
+dest_files=[ "res://.import/SM_Prop_Viking_Boat_01.obj-f9d4fb17f2d19f25d6fc17d38bb167d3.mesh", "res://.import/SM_Prop_Viking_Boat_01.obj-f9d4fb17f2d19f25d6fc17d38bb167d3.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

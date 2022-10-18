@@ -1,0 +1,128 @@
+[gd_scene load_steps=8 format=2]
+
+[ext_resource path="res://materials/dirt.material" type="Material" id=1]
+[ext_resource path="res://controllers/UniversalPlayer.tscn" type="PackedScene" id=2]
+[ext_resource path="res://default_env.tres" type="Environment" id=3]
+
+[sub_resource type="PlaneMesh" id=1]
+material = ExtResource( 1 )
+size = Vector2( 200, 200 )
+subdivide_width = 500
+subdivide_depth = 500
+
+[sub_resource type="BoxShape" id=2]
+
+[sub_resource type="Animation" id=3]
+resource_name = "environment_light_cycle"
+length = 120.0
+loop = true
+tracks/0/type = "value"
+tracks/0/path = NodePath(".:environment:background_sky:ground_horizon_color")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 20, 33.4, 40, 80, 120 ),
+"transitions": PoolRealArray( 1, 1, 1, 1, 1, 1 ),
+"update": 0,
+"values": [ Color( 0.180392, 0.694118, 1, 1 ), Color( 0.941176, 0.980392, 0.65098, 1 ), Color( 0.180392, 0.694118, 1, 1 ), Color( 0.00784314, 0.0392157, 0.258824, 1 ), Color( 0.00784314, 0.0392157, 0.258824, 1 ), Color( 0.180392, 0.694118, 1, 1 ) ]
+}
+tracks/1/type = "value"
+tracks/1/path = NodePath(".:environment:background_sky:ground_bottom_color")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/keys = {
+"times": PoolRealArray( 0, 20, 40, 80, 120 ),
+"transitions": PoolRealArray( 1, 1, 1, 1, 1 ),
+"update": 0,
+"values": [ Color( 0.560784, 0.870588, 0.980392, 1 ), Color( 0.560784, 0.870588, 0.980392, 1 ), Color( 0, 0.639216, 0.784314, 1 ), Color( 0.00784314, 0.0392157, 0.258824, 1 ), Color( 0.560784, 0.870588, 0.980392, 1 ) ]
+}
+tracks/2/type = "value"
+tracks/2/path = NodePath(".:environment:background_sky:sky_horizon_color")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/keys = {
+"times": PoolRealArray( 0, 20, 33.4, 40, 80, 120 ),
+"transitions": PoolRealArray( 1, 1, 1, 1, 1, 1 ),
+"update": 0,
+"values": [ Color( 0.180392, 0.694118, 1, 1 ), Color( 0.941176, 0.980392, 0.65098, 1 ), Color( 0.180392, 0.694118, 1, 1 ), Color( 0.00784314, 0.0392157, 0.258824, 1 ), Color( 0.00784314, 0.0392157, 0.258824, 1 ), Color( 0.180392, 0.694118, 1, 1 ) ]
+}
+tracks/3/type = "value"
+tracks/3/path = NodePath(".:environment:background_sky:sky_top_color")
+tracks/3/interp = 1
+tracks/3/loop_wrap = true
+tracks/3/imported = false
+tracks/3/enabled = true
+tracks/3/keys = {
+"times": PoolRealArray( 0, 20, 40, 80, 120 ),
+"transitions": PoolRealArray( 1, 1, 1, 1, 1 ),
+"update": 0,
+"values": [ Color( 0.156863, 0.576471, 0.945098, 1 ), Color( 0.156863, 0.576471, 0.945098, 1 ), Color( 0, 0, 0, 1 ), Color( 0, 0, 0, 1 ), Color( 0.156863, 0.576471, 0.945098, 1 ) ]
+}
+
+[sub_resource type="Animation" id=4]
+length = 120.0
+loop = true
+tracks/0/type = "value"
+tracks/0/path = NodePath(".:rotation_degrees")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 120 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ Vector3( -90, 0, 0 ), Vector3( 270, 0, 0 ) ]
+}
+tracks/1/type = "value"
+tracks/1/path = NodePath(".:light_energy")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/keys = {
+"times": PoolRealArray( 0, 30, 90, 120 ),
+"transitions": PoolRealArray( 1, 1, 1, 1 ),
+"update": 0,
+"values": [ 1.0, 0.02, 0.2, 1.0 ]
+}
+
+[node name="World" type="Spatial"]
+
+[node name="KinematicBody" parent="." instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.903412, 0 )
+
+[node name="Plateau" type="StaticBody" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -100, 0 )
+
+[node name="MeshInstance" type="MeshInstance" parent="Plateau"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 100, 0 )
+mesh = SubResource( 1 )
+material/0 = null
+
+[node name="CollisionShape2" type="CollisionShape" parent="Plateau"]
+transform = Transform( 100, 0, 0, 0, 100, 0, 0, 0, 100, 0, 0, 0 )
+shape = SubResource( 2 )
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = ExtResource( 3 )
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="WorldEnvironment"]
+autoplay = "environment_light_cycle"
+anims/environment_light_cycle = SubResource( 3 )
+
+[node name="DirectionalLight" type="DirectionalLight" parent="WorldEnvironment"]
+transform = Transform( 1, 0, 0, 0, -4.37114e-08, 1, 0, -1, -4.37114e-08, 0, 117.529, 0 )
+light_color = Color( 1, 0.952941, 0.811765, 1 )
+light_specular = 0.26
+shadow_enabled = true
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="WorldEnvironment/DirectionalLight"]
+autoplay = "Sun_Rotate"
+anims/Sun_Rotate = SubResource( 4 )

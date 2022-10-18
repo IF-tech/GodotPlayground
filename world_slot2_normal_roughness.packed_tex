@@ -1,0 +1,8 @@
+{
+	"contains_albedo": false,
+	"resolution": 512,
+	"src": {
+		"a": "res://textures/001/Grass001_2K_Roughness.jpg",
+		"rgb": "#ff8888ff"
+	}
+}

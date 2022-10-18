@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/SI_Number_0.obj-2bd275f04b7dd1946101ce4a3e9f0631.mesh"
+
+[deps]
+
+files=[ "res://.import/SI_Number_0.obj-2bd275f04b7dd1946101ce4a3e9f0631.mesh" ]
+
+source_file="res://models/POLYGON_Mini_Fantasy_Source_Files/Source_Files/OBJ/SI_Number_0.obj"
+dest_files=[ "res://.import/SI_Number_0.obj-2bd275f04b7dd1946101ce4a3e9f0631.mesh", "res://.import/SI_Number_0.obj-2bd275f04b7dd1946101ce4a3e9f0631.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

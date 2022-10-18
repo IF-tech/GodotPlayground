@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/SM_Tile_Cube_FloatingIsland_Water_01.obj-072cda45b92555e3fc395def95916355.mesh"
+
+[deps]
+
+files=[ "res://.import/SM_Tile_Cube_FloatingIsland_Water_01.obj-072cda45b92555e3fc395def95916355.mesh" ]
+
+source_file="res://models/POLYGON_Mini_Fantasy_Source_Files/Source_Files/OBJ/SM_Tile_Cube_FloatingIsland_Water_01.obj"
+dest_files=[ "res://.import/SM_Tile_Cube_FloatingIsland_Water_01.obj-072cda45b92555e3fc395def95916355.mesh", "res://.import/SM_Tile_Cube_FloatingIsland_Water_01.obj-072cda45b92555e3fc395def95916355.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/SM_Env_Pirate_Palm_01_Snow.obj-e37adaa8e0738c29aee38f8df7a40c2b.mesh"
+
+[deps]
+
+files=[ "res://.import/SM_Env_Pirate_Palm_01_Snow.obj-e37adaa8e0738c29aee38f8df7a40c2b.mesh" ]
+
+source_file="res://models/POLYGON_Mini_Fantasy_Source_Files/Source_Files/OBJ/SM_Env_Pirate_Palm_01_Snow.obj"
+dest_files=[ "res://.import/SM_Env_Pirate_Palm_01_Snow.obj-e37adaa8e0738c29aee38f8df7a40c2b.mesh", "res://.import/SM_Env_Pirate_Palm_01_Snow.obj-e37adaa8e0738c29aee38f8df7a40c2b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

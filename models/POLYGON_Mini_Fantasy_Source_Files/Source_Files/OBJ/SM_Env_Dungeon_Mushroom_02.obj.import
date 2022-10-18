@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/SM_Env_Dungeon_Mushroom_02.obj-d23e302f760308f7b46d1bbc118ede87.mesh"
+
+[deps]
+
+files=[ "res://.import/SM_Env_Dungeon_Mushroom_02.obj-d23e302f760308f7b46d1bbc118ede87.mesh" ]
+
+source_file="res://models/POLYGON_Mini_Fantasy_Source_Files/Source_Files/OBJ/SM_Env_Dungeon_Mushroom_02.obj"
+dest_files=[ "res://.import/SM_Env_Dungeon_Mushroom_02.obj-d23e302f760308f7b46d1bbc118ede87.mesh", "res://.import/SM_Env_Dungeon_Mushroom_02.obj-d23e302f760308f7b46d1bbc118ede87.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

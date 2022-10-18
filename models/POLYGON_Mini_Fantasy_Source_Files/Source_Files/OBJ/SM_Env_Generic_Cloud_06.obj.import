@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/SM_Env_Generic_Cloud_06.obj-dc56f225c3957e79e288350184660274.mesh"
+
+[deps]
+
+files=[ "res://.import/SM_Env_Generic_Cloud_06.obj-dc56f225c3957e79e288350184660274.mesh" ]
+
+source_file="res://models/POLYGON_Mini_Fantasy_Source_Files/Source_Files/OBJ/SM_Env_Generic_Cloud_06.obj"
+dest_files=[ "res://.import/SM_Env_Generic_Cloud_06.obj-dc56f225c3957e79e288350184660274.mesh", "res://.import/SM_Env_Generic_Cloud_06.obj-dc56f225c3957e79e288350184660274.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

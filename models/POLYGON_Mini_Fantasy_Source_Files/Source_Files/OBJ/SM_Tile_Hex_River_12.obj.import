@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/SM_Tile_Hex_River_12.obj-d0d36a6af4f2d7d90a991b5dc7a1343b.mesh"
+
+[deps]
+
+files=[ "res://.import/SM_Tile_Hex_River_12.obj-d0d36a6af4f2d7d90a991b5dc7a1343b.mesh" ]
+
+source_file="res://models/POLYGON_Mini_Fantasy_Source_Files/Source_Files/OBJ/SM_Tile_Hex_River_12.obj"
+dest_files=[ "res://.import/SM_Tile_Hex_River_12.obj-d0d36a6af4f2d7d90a991b5dc7a1343b.mesh", "res://.import/SM_Tile_Hex_River_12.obj-d0d36a6af4f2d7d90a991b5dc7a1343b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/SM_Env_Western_Cactus_01_Snow.obj-45b1f3035d81e2007ebff6744adeec0a.mesh"
+
+[deps]
+
+files=[ "res://.import/SM_Env_Western_Cactus_01_Snow.obj-45b1f3035d81e2007ebff6744adeec0a.mesh" ]
+
+source_file="res://models/POLYGON_Mini_Fantasy_Source_Files/Source_Files/OBJ/SM_Env_Western_Cactus_01_Snow.obj"
+dest_files=[ "res://.import/SM_Env_Western_Cactus_01_Snow.obj-45b1f3035d81e2007ebff6744adeec0a.mesh", "res://.import/SM_Env_Western_Cactus_01_Snow.obj-45b1f3035d81e2007ebff6744adeec0a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

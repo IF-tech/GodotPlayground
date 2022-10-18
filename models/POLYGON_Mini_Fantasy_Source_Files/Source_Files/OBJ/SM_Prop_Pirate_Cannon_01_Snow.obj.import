@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/SM_Prop_Pirate_Cannon_01_Snow.obj-0ce0ac8df65849029df378e7759e81ce.mesh"
+
+[deps]
+
+files=[ "res://.import/SM_Prop_Pirate_Cannon_01_Snow.obj-0ce0ac8df65849029df378e7759e81ce.mesh" ]
+
+source_file="res://models/POLYGON_Mini_Fantasy_Source_Files/Source_Files/OBJ/SM_Prop_Pirate_Cannon_01_Snow.obj"
+dest_files=[ "res://.import/SM_Prop_Pirate_Cannon_01_Snow.obj-0ce0ac8df65849029df378e7759e81ce.mesh", "res://.import/SM_Prop_Pirate_Cannon_01_Snow.obj-0ce0ac8df65849029df378e7759e81ce.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

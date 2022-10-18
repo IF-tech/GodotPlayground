@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/SM_Env_Generic_Dead_Tree_01.obj-f72991b8bd5b581c35ca8900ce61af52.mesh"
+
+[deps]
+
+files=[ "res://.import/SM_Env_Generic_Dead_Tree_01.obj-f72991b8bd5b581c35ca8900ce61af52.mesh" ]
+
+source_file="res://models/POLYGON_Mini_Fantasy_Source_Files/Source_Files/OBJ/SM_Env_Generic_Dead_Tree_01.obj"
+dest_files=[ "res://.import/SM_Env_Generic_Dead_Tree_01.obj-f72991b8bd5b581c35ca8900ce61af52.mesh", "res://.import/SM_Env_Generic_Dead_Tree_01.obj-f72991b8bd5b581c35ca8900ce61af52.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

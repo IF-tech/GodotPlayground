@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/SM_Env_Generic_Bush_03_Snow.obj-a80fc3d67b8d62b92935f8156022340f.mesh"
+
+[deps]
+
+files=[ "res://.import/SM_Env_Generic_Bush_03_Snow.obj-a80fc3d67b8d62b92935f8156022340f.mesh" ]
+
+source_file="res://models/POLYGON_Mini_Fantasy_Source_Files/Source_Files/OBJ/SM_Env_Generic_Bush_03_Snow.obj"
+dest_files=[ "res://.import/SM_Env_Generic_Bush_03_Snow.obj-a80fc3d67b8d62b92935f8156022340f.mesh", "res://.import/SM_Env_Generic_Bush_03_Snow.obj-a80fc3d67b8d62b92935f8156022340f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

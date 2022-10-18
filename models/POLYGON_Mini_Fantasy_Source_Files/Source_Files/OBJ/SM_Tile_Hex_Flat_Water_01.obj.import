@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/SM_Tile_Hex_Flat_Water_01.obj-0035964233d4d9ee5eea684f226b70f1.mesh"
+
+[deps]
+
+files=[ "res://.import/SM_Tile_Hex_Flat_Water_01.obj-0035964233d4d9ee5eea684f226b70f1.mesh" ]
+
+source_file="res://models/POLYGON_Mini_Fantasy_Source_Files/Source_Files/OBJ/SM_Tile_Hex_Flat_Water_01.obj"
+dest_files=[ "res://.import/SM_Tile_Hex_Flat_Water_01.obj-0035964233d4d9ee5eea684f226b70f1.mesh", "res://.import/SM_Tile_Hex_Flat_Water_01.obj-0035964233d4d9ee5eea684f226b70f1.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

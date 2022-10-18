@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/SM_Env_Generic_Cliffs_03.obj-fd9478a0cc5791c0bb47f408b8f719aa.mesh"
+
+[deps]
+
+files=[ "res://.import/SM_Env_Generic_Cliffs_03.obj-fd9478a0cc5791c0bb47f408b8f719aa.mesh" ]
+
+source_file="res://models/POLYGON_Mini_Fantasy_Source_Files/Source_Files/OBJ/SM_Env_Generic_Cliffs_03.obj"
+dest_files=[ "res://.import/SM_Env_Generic_Cliffs_03.obj-fd9478a0cc5791c0bb47f408b8f719aa.mesh", "res://.import/SM_Env_Generic_Cliffs_03.obj-fd9478a0cc5791c0bb47f408b8f719aa.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

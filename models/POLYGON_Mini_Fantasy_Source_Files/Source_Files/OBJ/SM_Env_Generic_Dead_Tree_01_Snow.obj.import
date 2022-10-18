@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/SM_Env_Generic_Dead_Tree_01_Snow.obj-ef90eab20836794475d54d2ad8055dbd.mesh"
+
+[deps]
+
+files=[ "res://.import/SM_Env_Generic_Dead_Tree_01_Snow.obj-ef90eab20836794475d54d2ad8055dbd.mesh" ]
+
+source_file="res://models/POLYGON_Mini_Fantasy_Source_Files/Source_Files/OBJ/SM_Env_Generic_Dead_Tree_01_Snow.obj"
+dest_files=[ "res://.import/SM_Env_Generic_Dead_Tree_01_Snow.obj-ef90eab20836794475d54d2ad8055dbd.mesh", "res://.import/SM_Env_Generic_Dead_Tree_01_Snow.obj-ef90eab20836794475d54d2ad8055dbd.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

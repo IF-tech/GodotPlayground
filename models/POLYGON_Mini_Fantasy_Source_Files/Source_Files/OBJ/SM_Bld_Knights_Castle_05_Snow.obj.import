@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/SM_Bld_Knights_Castle_05_Snow.obj-1335aab02bda6753a5b6c50c9b234a57.mesh"
+
+[deps]
+
+files=[ "res://.import/SM_Bld_Knights_Castle_05_Snow.obj-1335aab02bda6753a5b6c50c9b234a57.mesh" ]
+
+source_file="res://models/POLYGON_Mini_Fantasy_Source_Files/Source_Files/OBJ/SM_Bld_Knights_Castle_05_Snow.obj"
+dest_files=[ "res://.import/SM_Bld_Knights_Castle_05_Snow.obj-1335aab02bda6753a5b6c50c9b234a57.mesh", "res://.import/SM_Bld_Knights_Castle_05_Snow.obj-1335aab02bda6753a5b6c50c9b234a57.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

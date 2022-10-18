@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/SM_Prop_Generic_Bridge_02_Snow.obj-e169418c712c9bad149280b31e49289a.mesh"
+
+[deps]
+
+files=[ "res://.import/SM_Prop_Generic_Bridge_02_Snow.obj-e169418c712c9bad149280b31e49289a.mesh" ]
+
+source_file="res://models/POLYGON_Mini_Fantasy_Source_Files/Source_Files/OBJ/SM_Prop_Generic_Bridge_02_Snow.obj"
+dest_files=[ "res://.import/SM_Prop_Generic_Bridge_02_Snow.obj-e169418c712c9bad149280b31e49289a.mesh", "res://.import/SM_Prop_Generic_Bridge_02_Snow.obj-e169418c712c9bad149280b31e49289a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

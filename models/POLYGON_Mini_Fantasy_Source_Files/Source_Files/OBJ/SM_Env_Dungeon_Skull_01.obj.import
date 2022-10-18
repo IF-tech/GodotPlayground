@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/SM_Env_Dungeon_Skull_01.obj-687fb3e616a5dd0be013e803849e189c.mesh"
+
+[deps]
+
+files=[ "res://.import/SM_Env_Dungeon_Skull_01.obj-687fb3e616a5dd0be013e803849e189c.mesh" ]
+
+source_file="res://models/POLYGON_Mini_Fantasy_Source_Files/Source_Files/OBJ/SM_Env_Dungeon_Skull_01.obj"
+dest_files=[ "res://.import/SM_Env_Dungeon_Skull_01.obj-687fb3e616a5dd0be013e803849e189c.mesh", "res://.import/SM_Env_Dungeon_Skull_01.obj-687fb3e616a5dd0be013e803849e189c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

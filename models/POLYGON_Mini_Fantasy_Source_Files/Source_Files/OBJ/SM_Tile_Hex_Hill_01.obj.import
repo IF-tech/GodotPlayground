@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/SM_Tile_Hex_Hill_01.obj-45d353443ccd7c31342694f29cf3968b.mesh"
+
+[deps]
+
+files=[ "res://.import/SM_Tile_Hex_Hill_01.obj-45d353443ccd7c31342694f29cf3968b.mesh" ]
+
+source_file="res://models/POLYGON_Mini_Fantasy_Source_Files/Source_Files/OBJ/SM_Tile_Hex_Hill_01.obj"
+dest_files=[ "res://.import/SM_Tile_Hex_Hill_01.obj-45d353443ccd7c31342694f29cf3968b.mesh", "res://.import/SM_Tile_Hex_Hill_01.obj-45d353443ccd7c31342694f29cf3968b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

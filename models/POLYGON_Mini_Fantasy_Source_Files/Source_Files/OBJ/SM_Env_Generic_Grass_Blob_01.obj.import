@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/SM_Env_Generic_Grass_Blob_01.obj-74d1f8b07617836cfa30c9723cbd4c38.mesh"
+
+[deps]
+
+files=[ "res://.import/SM_Env_Generic_Grass_Blob_01.obj-74d1f8b07617836cfa30c9723cbd4c38.mesh" ]
+
+source_file="res://models/POLYGON_Mini_Fantasy_Source_Files/Source_Files/OBJ/SM_Env_Generic_Grass_Blob_01.obj"
+dest_files=[ "res://.import/SM_Env_Generic_Grass_Blob_01.obj-74d1f8b07617836cfa30c9723cbd4c38.mesh", "res://.import/SM_Env_Generic_Grass_Blob_01.obj-74d1f8b07617836cfa30c9723cbd4c38.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/FX_Ring_Plane.obj-7ee5bf9a933e74b4fac3e16982e63e88.mesh"
+
+[deps]
+
+files=[ "res://.import/FX_Ring_Plane.obj-7ee5bf9a933e74b4fac3e16982e63e88.mesh" ]
+
+source_file="res://models/POLYGON_Mini_Fantasy_Source_Files/Source_Files/OBJ/FX_Ring_Plane.obj"
+dest_files=[ "res://.import/FX_Ring_Plane.obj-7ee5bf9a933e74b4fac3e16982e63e88.mesh", "res://.import/FX_Ring_Plane.obj-7ee5bf9a933e74b4fac3e16982e63e88.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

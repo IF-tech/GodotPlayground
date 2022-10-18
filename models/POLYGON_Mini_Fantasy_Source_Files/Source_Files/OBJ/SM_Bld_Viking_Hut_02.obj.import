@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/SM_Bld_Viking_Hut_02.obj-431b9c68075a42927f4903f25cfe1b8f.mesh"
+
+[deps]
+
+files=[ "res://.import/SM_Bld_Viking_Hut_02.obj-431b9c68075a42927f4903f25cfe1b8f.mesh" ]
+
+source_file="res://models/POLYGON_Mini_Fantasy_Source_Files/Source_Files/OBJ/SM_Bld_Viking_Hut_02.obj"
+dest_files=[ "res://.import/SM_Bld_Viking_Hut_02.obj-431b9c68075a42927f4903f25cfe1b8f.mesh", "res://.import/SM_Bld_Viking_Hut_02.obj-431b9c68075a42927f4903f25cfe1b8f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

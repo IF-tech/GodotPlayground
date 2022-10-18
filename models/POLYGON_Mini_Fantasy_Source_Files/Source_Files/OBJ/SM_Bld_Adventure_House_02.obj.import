@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/SM_Bld_Adventure_House_02.obj-2da472693e38f9a88fdeb4c2e5cd4c6d.mesh"
+
+[deps]
+
+files=[ "res://.import/SM_Bld_Adventure_House_02.obj-2da472693e38f9a88fdeb4c2e5cd4c6d.mesh" ]
+
+source_file="res://models/POLYGON_Mini_Fantasy_Source_Files/Source_Files/OBJ/SM_Bld_Adventure_House_02.obj"
+dest_files=[ "res://.import/SM_Bld_Adventure_House_02.obj-2da472693e38f9a88fdeb4c2e5cd4c6d.mesh", "res://.import/SM_Bld_Adventure_House_02.obj-2da472693e38f9a88fdeb4c2e5cd4c6d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

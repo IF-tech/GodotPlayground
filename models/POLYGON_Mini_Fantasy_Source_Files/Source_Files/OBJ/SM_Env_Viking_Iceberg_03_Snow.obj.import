@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/SM_Env_Viking_Iceberg_03_Snow.obj-9ab301d67b8c5a2ebcafde2f8e8f045b.mesh"
+
+[deps]
+
+files=[ "res://.import/SM_Env_Viking_Iceberg_03_Snow.obj-9ab301d67b8c5a2ebcafde2f8e8f045b.mesh" ]
+
+source_file="res://models/POLYGON_Mini_Fantasy_Source_Files/Source_Files/OBJ/SM_Env_Viking_Iceberg_03_Snow.obj"
+dest_files=[ "res://.import/SM_Env_Viking_Iceberg_03_Snow.obj-9ab301d67b8c5a2ebcafde2f8e8f045b.mesh", "res://.import/SM_Env_Viking_Iceberg_03_Snow.obj-9ab301d67b8c5a2ebcafde2f8e8f045b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

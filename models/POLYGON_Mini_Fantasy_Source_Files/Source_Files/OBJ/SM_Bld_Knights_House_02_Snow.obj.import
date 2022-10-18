@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/SM_Bld_Knights_House_02_Snow.obj-28458a4a214f2dd82b908a9c88f4fd5e.mesh"
+
+[deps]
+
+files=[ "res://.import/SM_Bld_Knights_House_02_Snow.obj-28458a4a214f2dd82b908a9c88f4fd5e.mesh" ]
+
+source_file="res://models/POLYGON_Mini_Fantasy_Source_Files/Source_Files/OBJ/SM_Bld_Knights_House_02_Snow.obj"
+dest_files=[ "res://.import/SM_Bld_Knights_House_02_Snow.obj-28458a4a214f2dd82b908a9c88f4fd5e.mesh", "res://.import/SM_Bld_Knights_House_02_Snow.obj-28458a4a214f2dd82b908a9c88f4fd5e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

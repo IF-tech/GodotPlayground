@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/SM_Tile_Cube_Waterfall_01.obj-db7f8f21615e9cc80d989ce47e321496.mesh"
+
+[deps]
+
+files=[ "res://.import/SM_Tile_Cube_Waterfall_01.obj-db7f8f21615e9cc80d989ce47e321496.mesh" ]
+
+source_file="res://models/POLYGON_Mini_Fantasy_Source_Files/Source_Files/OBJ/SM_Tile_Cube_Waterfall_01.obj"
+dest_files=[ "res://.import/SM_Tile_Cube_Waterfall_01.obj-db7f8f21615e9cc80d989ce47e321496.mesh", "res://.import/SM_Tile_Cube_Waterfall_01.obj-db7f8f21615e9cc80d989ce47e321496.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/SM_Env_Dirt_Pile_01.obj-3286c74977917ddc50cda11bc09d1c75.mesh"
+
+[deps]
+
+files=[ "res://.import/SM_Env_Dirt_Pile_01.obj-3286c74977917ddc50cda11bc09d1c75.mesh" ]
+
+source_file="res://models/POLYGON_Mini_Fantasy_Source_Files/Source_Files/OBJ/SM_Env_Dirt_Pile_01.obj"
+dest_files=[ "res://.import/SM_Env_Dirt_Pile_01.obj-3286c74977917ddc50cda11bc09d1c75.mesh", "res://.import/SM_Env_Dirt_Pile_01.obj-3286c74977917ddc50cda11bc09d1c75.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

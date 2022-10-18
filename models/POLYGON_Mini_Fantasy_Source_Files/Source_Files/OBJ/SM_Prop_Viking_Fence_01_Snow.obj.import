@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/SM_Prop_Viking_Fence_01_Snow.obj-973d4ee89cce312fca9e39ed418bb11f.mesh"
+
+[deps]
+
+files=[ "res://.import/SM_Prop_Viking_Fence_01_Snow.obj-973d4ee89cce312fca9e39ed418bb11f.mesh" ]
+
+source_file="res://models/POLYGON_Mini_Fantasy_Source_Files/Source_Files/OBJ/SM_Prop_Viking_Fence_01_Snow.obj"
+dest_files=[ "res://.import/SM_Prop_Viking_Fence_01_Snow.obj-973d4ee89cce312fca9e39ed418bb11f.mesh", "res://.import/SM_Prop_Viking_Fence_01_Snow.obj-973d4ee89cce312fca9e39ed418bb11f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
